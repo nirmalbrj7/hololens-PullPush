@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+C:\NirmalAll\megaJenga\PushPull\HLPullPush\NirBuild\thumbsup\HLPullPush\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+C:\NirmalAll\megaJenga\PushPull\HLPullPush\NirBuild\thumbsup\HLPullPush\App.cpp(26,1): message : Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  Generating code
+  Finished generating code
+  HLPullPush.vcxproj -> C:\NirmalAll\megaJenga\PushPull\HLPullPush\NirBuild\thumbsup\build\bin\ARM64\Release\HLPullPush.exe
